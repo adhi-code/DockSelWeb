@@ -1,5 +1,5 @@
 FROM  devopsedu/webapp
-MAINTAINER Sashank765
+MAINTAINER Aditya
 
 CMD yum -y install apache2
 
